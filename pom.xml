@@ -11,7 +11,7 @@
 	<groupId>com.upperapps</groupId>
 	<artifactId>springbootadmin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springbootadmin</name>
+	<name>spring-boot-admin</name>
 	<description>Project to monitor and administrate Spring Boot Projects</description>
 
 	<properties>
