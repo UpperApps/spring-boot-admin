@@ -6,8 +6,8 @@ import org.springframework.boot.runApplication
 
 @EnableAdminServer
 @SpringBootApplication
-class SpringbootadminApplication
+class SpringBootAdminApplication
 
 fun main(args: Array<String>) {
-	runApplication<SpringbootadminApplication>(*args)
+	runApplication<SpringBootAdminApplication>(*args)
 }
